@@ -1,7 +1,7 @@
 from tkinter import Image
 
 import streamlit as st
-import fastai.vision.all import *
+from fastai.vision.all import *
 
 st.title("Pet Breed Classification")
 st.text("Built by David Shaun")
